@@ -1,26 +1,47 @@
-WHERE TO BUY TOKENS
+BEST PRICES AND TIME TO BUY TOKENS
 
-Bitcoin (BTC)                 =                 Between $ 10.452 - $12.434
+Bitcoin (BTC)                                             =                 Between $ 10.452 - $12.434
 
-Ethereum (ETH)          =                 Between $ 620 - $ 680
+Ethereum (ETH)                                      =                 Between $ 620 - $ 680
 
-Compound (COMP)     =                 Between $ 25 - $ 30
+Compound (COMP)                                 =                 Between $ 25 - $ 30
 
-Zilliqa (ZIL)                     =                 Between $ 0.011 - $ 0.014
+Zilliqa (ZIL)                                                 =                 Between $ 0.011 - $ 0.014
 
-The Graph (GRT)          =                 Between $ 0.027 - $ 0.033
+The Graph (GRT)                                      =                 Between $ 0.027 - $ 0.033
 
-Chainlink (LINK)          =                 Between $ 3.35 - $ 4.60
+Chainlink (LINK)                                      =                 Between $ 3.35 - $ 4.60
 
-Cardano (ADA)              =                 Between $ 0.15 - $ 0.20
+Cardano (ADA)                                          =                 Between $ 0.15 - $ 0.20
 
-Algorand (ALGO)         =                  Between $ 0.10 - $ 0.13
+Algorand (ALGO)                                     =                 Between $ 0.10 - $ 0.13
 
-Polkadot (DOT)            =                  Between $ 2.70 - $ 3.70
+Polkadot (DOT)                                        =                 Between $ 2.70 - $ 3.70
 
-Polygon (MATIC)         =                  Between $ 0.25 - $ 0.35
+Polygon (MATIC)                                     =                 Between $ 0.25 - $ 0.35
 
-Avalanche (AVAX)       =                  Between $ 7.50 - $ 9.20
+Avalanche (AVAX)                                  =                  Between $ 7.50 - $ 9.20
+
+Theta Network (THETA)                    =                  Anywhere under $ 0.60
+
+Solana (SOL)                                             =                  Between $ 4.20 - $ 5.15
+
+Cosmos (ATOM)                                     =                  Between $ 3.40 - $ 4.50
+
+Ethereum Name Services(ENS)     =                  Anywhere under  $ 8
+
+Enjin (ENJ)                                                =                  Between $ 0.11 - $ 0.15
+
+Chiliz (CHZ)                                              =                  Between $ 0.27 - $ 0.38
+
+Stacks (STX)                                             =                  Between $ 0.11 - $ 0.14
+
+Linear (LINA)                                          =                  Between $ 0.0025 - $ 0.0035
+
+
+
+
+
 
 
 
