@@ -4,6 +4,8 @@ Bitcoin (BTC)                                             =                 Betw
 
 Ethereum (ETH)                                      =                 Between $ 620 - $ 680
 
+Binance Coin (BNB)                                =                 Between $ 120 - $ 160
+
 Compound (COMP)                                 =                 Between $ 25 - $ 30
 
 Zilliqa (ZIL)                                                 =                 Between $ 0.011 - $ 0.014
@@ -37,6 +39,15 @@ Chiliz (CHZ)                                              =                  Bet
 Stacks (STX)                                             =                  Between $ 0.11 - $ 0.14
 
 Linear (LINA)                                          =                  Between $ 0.0025 - $ 0.0035
+
+Mexc Global (MX)                                  =                  Between $ 0.43 - $ 0.53
+
+Crypto.com (CRO)                                 =                  Between $ 0.024 - $ 0.033
+
+Azero (AZERO)                                       =                  Between $ 0.55 - $ 0.70
+
+Dogecoin (DOGE)                                 =                   Between $ 0.040 - $ 0.055
+
 
 
 
